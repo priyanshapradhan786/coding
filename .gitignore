@@ -1,0 +1,10 @@
+# Compiled programs
+*.exe
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
